@@ -1,0 +1,5 @@
+Write a script in Python or Shell to tag EC2 instances if they're not tagged. If they're tagged, they should be skipped.
+Write a script in Python or Shell to check if a port number is open or not open.
+Explain the difference between a soft link and a hard link.
+How to figure out which cron job is consuming system resources and how to fix it.
+Write a script in Python or Shell to delete all empty files under a directory.

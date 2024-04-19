@@ -1,5 +1,0 @@
-Write a script in Python or shell to tag EC2 instances if not tagged, and skip if already tagged.
-Write a script in Python or shell to check if a port number is open or not.
-Write a script in Python or shell to delete all empty files under a directory.
-Write a Python script to count the occurrences of each character in a string without using built-in functions.
-How do you design a shell script for monitoring system resources, checking service availability, and generating alerts based on predefined conditions?

@@ -1,0 +1,20 @@
+How do you decide a branching strategy? What are the different branching strategies you are aware of?
+What's the difference between git revert and git reset?
+How did you integrate Git with your CI/CD pipeline? Can you describe your CI/CD pipeline?
+How do you handle conflicts during a Git merge?
+Explain the purpose and use of git stash.
+What are the steps to resolve a merge conflict in Git?
+What is a hotfix branch in Git, and how does it work?
+How do you handle feature branches in Git?
+Can you explain the Git workflow you follow in your projects?
+How do you handle versioning of your codebase in Git?
+Describe your experience with rebasing in Git.
+What is a Git submodule, and how do you use it?
+How do you keep your Git history clean and organized?
+Explain the concept of Git hooks and give examples of how you've used them.
+What is a Git commit message convention, and why is it important?
+Describe your approach to code review using Git pull requests.
+How do you handle large files in Git repositories?
+What are some best practices for Git branching and merging?
+How do you handle Git tags in your projects?
+Can you explain the difference between a Git merge and a rebase?

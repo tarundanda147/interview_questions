@@ -1,0 +1,16 @@
+How do you manage the disaster recovery in AWS S3?
+What is a permanent solution if S3 bucket storage is full?
+Why do you create VPC?
+Can you describe the process of setting up a continuous delivery pipeline in AWS using CodePipeline and CodeBuild?
+Explain the Elastic Beanstalk deployment modes.
+How do you monitor EC2 instances?
+How would you set up a highly available web application in AWS using EC2, ELB, and Auto Scaling?
+What is the use of WAF and rate limiting in AWS?
+What is the difference between ALB and NLB in AWS?
+What are the different services you have experience with in AWS?
+What is the use of a snapshot in AWS?
+Is it possible to copy EBS content from one region to another in AWS? If possible, how?
+What is the difference between Elastic Block Storage and instance storage in AWS?
+What are the types of object storage available in AWS?
+What are the types of routing policies in AWS Route 53?
+What is multi-AZ in RDS?

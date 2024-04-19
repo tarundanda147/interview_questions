@@ -1,0 +1,11 @@
+What is the architecture of your Kubernetes cluster?
+How do you monitor your EKS cluster, and what tools are involved?
+How do you manage releases using Helm, and how was Helm used in your project?
+How do you troubleshoot a Kubernetes deployment failure?
+How do you ensure your Jenkins deployment is deployed to the correct environment in Kubernetes?
+How did you create your Kubernetes cluster using Infrastructure as Code (IAC), and explain the steps involved?
+What is your understanding of Argo CD?
+What are the different types of probes in Kubernetes?
+What is a daemonset, and how do you modify it for multiple replicas?
+How do you deploy an application in different environments like dev, QA, and prod in Kubernetes?
+What is the use of a persistent volume and persistent volume claim (PVC) in Kubernetes, and can you explain with an example?

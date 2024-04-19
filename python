@@ -1,0 +1,5 @@
+Write a script in Python or Shell to tag EC2 instance if it's not tagged. If it's tagged, it has to skip it.
+Write a script in Python or Shell to check if a given port number is open or not open.
+Write Python script "hello world" to count how many times each character is present in a string without using built-in functions.
+Write a Python script to turn off AWS EC2 instances at 5 pm and turn them on at 8 am every day.
+Write a Python script to delete all empty files under a directory.

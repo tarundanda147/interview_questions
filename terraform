@@ -1,9 +1,25 @@
-What do you mean by Terragrunt in Terraform?
-What is the dry run in Terraform?
-What different types of remote backends have you used in Terraform?
-How frequently do you write Terraform templates?
-What is the purpose of Terraform backend, and how do you configure it?
-What is the difference between soft link and hard link?
-How do you figure out which cron job is causing system issues in Linux, and how do you fix it?
-What are the differences between Terraform resource and module?
-How do you manage secrets in Terraform, and what options do you have?
+What is the backend you used for terraform, could you write your backend config?
+Where did you keep your state files?
+Was there any scenario where you had to load from an S3 backup? How did you do that?
+Where were your Terraform scripts stored at?
+Write a Terraform to create an EC2 instance and change the default IP to an Elastic IP.
+What do you mean by terragrunt in Terraform?
+What is terraform plan?
+What is terraform apply?
+What is terraform destroy?
+What is terraform fmt?
+What is terraform state?
+What is terraform workspace?
+Explain the Terraform lifecycle.
+How frequently are you writing Terraform templates?
+How do you handle secrets in Terraform? What are the options you have?
+What if we lost the state file? Can we generate it back?
+Explain Terraform backend.
+What information details will the state file contain?
+How do you propose to integrate tools like Terraform or AWS with CI/CD pipelines?
+How do you manage resources in Terraform?
+How do you handle versioning and testing when orchestrating infrastructure resource changes with Terraform?
+What is terragrunt and how does it differ from Terraform?
+Can you provide an example of using Terraform modules?
+Explain the concept of dry-run in Terraform.
+What are the different types of remote backends you have used with Terraform?

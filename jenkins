@@ -1,9 +1,11 @@
-How can you set up a Jenkins job process?
-Explain shared library in Jenkins.
-How do you handle exceptions in Jenkins pipeline?
-Write a Jenkins pipeline that handles multiple environments.
-How do you configure Jenkins backup, and where do you store the backup?
-How do you handle Jenkins upgrades without downtime?
-How do you configure Jenkins to deploy to the right environment in Kubernetes?
-Explain your Jenkins CI/CD pipeline.
-What are the CI/CD tools you have worked with, and how do they integrate with Jenkins?
+How do you set up a Jenkins job process?
+Explain about shared library in Jenkins.
+How do you handle exceptions in a Jenkins pipeline?
+Write a Jenkins pipeline which should handle multiple environments.
+How do you set up a continuous delivery pipeline in AWS using CodePipeline and CodeBuild?
+Explain how you integrate Grafana in your project.
+What is the architectural change you proposed and how was it handled and presented to the relevant stakeholders?
+How do you convince your management to go with a Kafka bus? Did you give your design views or follow your architect's instruction?
+Explain your Jenkins CI/CD. As you deal with customers, how was the complex application shipped and deployed to your customer?
+How do you take a Jenkins backup, where do you store the backup, and how frequently do you take a backup? How are the backup scripts triggered?
+How do you upgrade Jenkins without having downtime?

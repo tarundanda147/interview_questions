@@ -1,30 +1,7 @@
-How do you manage disaster recovery in AWS S3?
-What is a permanent solution if an S3 bucket storage is full?
-Why do you create a VPC?
-How would you set up a highly available web application in AWS using EC2, ELB, and Auto Scaling?
-Can you describe the process of setting up a continuous delivery pipeline in AWS using CodePipeline and CodeBuild?
-How does a company shift from monolithic to microservices and how can they incorporate Kubernetes into it?
-Explain the Elastic Beanstalk deployment modes.
-How do you pass environment variables in Kubernetes?
-How is the blue-green deployment strategy implemented on AWS, involving creating two identical environments, and how would you set it up?
-What are the services you have experience with under AWS?
-What is the use of a snapshot in AWS?
-If you have EBS in one region and want to copy the content to another region, is it possible? If possible, how?
-What is the difference between Elastic Block Storage and instance storage?
-Why would you want to create a VPC? Explain.
-What are the different types of services in Kubernetes?
-What is the difference between a public subnet and a private subnet?
-Under Route53, what is a private and public zone?
-What are the different types of routing policies in Route53?
-What is Multi-AZ in RDS?
-Why is mounting used?
-What is object storage, and have you worked with it?
-What are the types of object storage?
-What is the difference between Docker Swarm and Kubernetes?
-What are the services available in Kubernetes?
-What is the difference between ClusterIP and NodePort?
-What types of monitoring tools do you use to monitor Docker/Kubernetes?
-What is a DaemonSet, and how would you modify it to create multiple replicas?
-What type of Kubernetes setup do you use to host a database?
-How do you deploy an app in different environments like dev, QA, and Prod?
-What is the use of persistent volume and Persistent Volume Claim (PVC)? Can you explain with an example?
+Have you worked with Boto3?
+
+Can you script to take a Jenkins backup and store it in S3?
+Write a template to create an AWS load balancer.
+Have you configured RDS? Explain the process.
+Have you worked on a cost optimization project? How did you do it?
+How do you check for vulnerabilities?

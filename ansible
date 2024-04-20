@@ -1,12 +1,3 @@
-Have you worked with Boto3?
-Can you provide a script to take a Jenkins backup and store it in S3?
-How do you check the Java path and update it?
-What are modules in Ansible and explain a playbook to install an application?
-Have you worked with Ansible to upgrade and patch systems? Explain the process.
-Can you write a sample Ansible playbook to execute a single task?
-What are ad hoc commands in Ansible? Provide some examples.
-How do you declare variables in Ansible? Write a sample Ansible playbook for it.
-How do you clean up your EC2 instances using Ansible?
-How do you perform a cleanup activity in a Kubernetes cluster using Ansible? What steps do you take?
-Have you worked with Ansible to manage multiple VPCs? If so, how?
-Can you write a sample declarative pipeline using Groovy script in Jenkins?
+Explain modules in Ansible and explain a playbook to install an application.
+
+Do you have experience in upgrading and patching? What level of patching and which tools do you use?
